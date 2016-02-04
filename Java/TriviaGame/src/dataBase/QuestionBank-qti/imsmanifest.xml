@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<manifest identifier="MANIFEST1" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" 
+    xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 imsmd_v1p2p2.xsd">
+	<metadata>
+		<schema>IMS Content</schema>
+		<schemaversion>1.1.3</schemaversion>
+		<imsmd:lom>
+			<imsmd:general>
+				<imsmd:identifier>
+					<imsmd:langstring xml:lang="en-US">CD139C655B6F4F97AC8BA054CA753C56</imsmd:langstring>
+				</imsmd:identifier>
+				<imsmd:title>
+					<imsmd:langstring xml:lang="en-US">QuestionBank-qti (Respondus IMS QTI export)</imsmd:langstring>
+				</imsmd:title>
+			</imsmd:general>
+		</imsmd:lom>
+	</metadata>
+	<organizations default="EXAM1">
+		<organization identifier="EXAM1" structure="hierarchical">
+			<title>default</title>
+			<item identifier="ITEM1" identifierref="RESOURCE1">
+				<title>Exam 1</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="RESOURCE1" type="imsqti_xmlv1p1" href="QuestionBank-qti.xml">
+			<file href="QuestionBank-qti.xml" />
+			<file href="1.png" />
+			<file href="2.png" />
+			<file href="3.png" />
+			<file href="4.png" />
+			<file href="5.png" />
+			<file href="6.gif" />
+			<file href="7.png" />
+			<file href="8.png" />
+			<file href="9.png" />
+			<file href="10.png" />
+			<file href="11.jpg" />
+			<file href="12.gif" />
+			<file href="13.png" />
+			<file href="14.png" />
+			<file href="15.png" />
+			<file href="16.png" />
+			<file href="17.png" />
+			<file href="18.png" />
+			<file href="20.png" />
+			<file href="21.png" />
+			<file href="22.png" />
+			<file href="23.png" />
+			<file href="24.png" />
+			<file href="25.png" />
+			<file href="26.png" />
+			<file href="27.png" />
+			<file href="28.png" />
+			<file href="29.png" />
+			<file href="30.png" />
+			<file href="31.png" />
+			<file href="32.png" />
+			<file href="33.png" />
+			<file href="34.png" />
+			<file href="35.png" />
+			<file href="36.png" />
+			<file href="37.png" />
+			<file href="38.png" />
+			<file href="39.png" />
+			<file href="40.gif" />
+			<file href="41.png" />
+			<file href="42.png" />
+			<file href="43.png" />
+			<file href="44.png" />
+			<file href="45.png" />
+			<file href="46.gif" />
+			<file href="47.gif" />
+		</resource>
+	</resources>
+</manifest>
